@@ -69,7 +69,7 @@ AI/ML Engineer with a strong foundation in mathematics and production-ready ML p
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Product
 
 ### THULIYAM AI - Deepfake Detection Platform
 
