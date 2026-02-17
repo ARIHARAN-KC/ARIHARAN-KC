@@ -87,35 +87,6 @@ An advanced deepfake detection system that achieves high accuracy with fast resp
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARIHARAN-KC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARIHARAN-KC&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARIHARAN-KC&theme=tokyonight&hide_border=true" width="70%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ARIHARAN-KC&theme=react-dark&hide_border=true&area=true" width="95%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/ARIHARAN-KC/ARIHARAN-KC/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
 ## 📫 Get in Touch
 
 <div align="center">
@@ -123,8 +94,6 @@ An advanced deepfake detection system that achieves high accuracy with fast resp
     <img src="https://img.shields.io/badge/Email-ariharankc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ARIHARAN-KC&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 ---
