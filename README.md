@@ -76,9 +76,7 @@ An advanced deepfake detection system that achieves high accuracy with fast resp
 
 **Key Features:**
 - 93.7% detection accuracy
-- Sub-3 second response time
-- Real-time video analysis
-- RESTful API integration
+- Real-time analysis
 
 **Tech Stack:** PyTorch, TensorFlow, Transformers, FastAPI, Docker, AWS
 
