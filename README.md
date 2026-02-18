@@ -6,18 +6,18 @@
 
 ---
 
-## 📋 About Me
+## About Me
 
 AI/ML Engineer with a strong foundation in mathematics and production-ready ML pipelines. I specialize in bridging the gap between research experimentation and industrial-scale deployment.
 
-- 🔭 Currently working on **production ML systems**
-- 🌱 Exploring **LLM orchestration** and **inference optimization**
-- 👯 Looking to collaborate on **ML projects**
-- 📫 Reach me at **ariharankc@gmail.com**
+- Currently working on **production ML systems**
+- Exploring **LLM orchestration** and **inference optimization**
+- Looking to collaborate on **ML projects**
+- Reach me at **ariharankc@gmail.com**
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
   <a href="https://github.com/ARIHARAN-KC">
@@ -36,7 +36,7 @@ AI/ML Engineer with a strong foundation in mathematics and production-ready ML p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +68,7 @@ AI/ML Engineer with a strong foundation in mathematics and production-ready ML p
 
 ---
 
-## 🚀 Product
+## Product
 
 ### THULIYAM AI - Deepfake Detection Platform
 
@@ -86,7 +86,7 @@ An advanced deepfake detection system that achieves high accuracy with fast resp
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 <div align="center">
   <a href="mailto:ariharankc@gmail.com">
