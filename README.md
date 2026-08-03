@@ -1,4 +1,4 @@
-# 👨‍💻 ARIHARAN K C
+# ARIHARAN K C
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2F81F7&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Backend+Engineer" alt="Typing SVG" />
